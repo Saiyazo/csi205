@@ -1,11 +1,13 @@
+import Me from '../imgs/me.png';
+
 const Home = () => {
     return (
         <>
             <div>
                 <img
                     className="w-25 h-25 d-block mx-auto"
-                    src="./src/imgs/me.png"
-                    alt=""
+                    src={Me}
+                    alt="Me"
                 />
             </div>
             <br />
