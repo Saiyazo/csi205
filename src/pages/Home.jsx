@@ -1,4 +1,4 @@
-import Me from '../imgs/me.png';
+import Me from './imgs/me.png';
 
 const Home = () => {
     return (
